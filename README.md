@@ -72,21 +72,6 @@ Deploy EMMYHENZ-V1 to your favorite platform with one click:
 
 ---
 
-## 📱 Channels & Support
-
-<div align="center">
-
-### 🌟 **Join Our Community**
-
-[![WhatsApp Channel](https://img.shields.io/badge/WhatsApp-Channel-25D366?style=for-the-badge&logo=whatsapp)](https://whatsapp.com/channel/0029VangYOt96H4JhFarL10C)
-[![Telegram](https://img.shields.io/badge/Telegram-Support-0088cc?style=for-the-badge&logo=telegram)](https://t.me/cyber_xph)
-
-**🔔 Get Updates** • **💬 Get Support** • **🤝 Join Community**
-
-</div>
-
----
-
 ## 🎯 Top Commands
 
 <details>
@@ -109,19 +94,6 @@ Deploy EMMYHENZ-V1 to your favorite platform with one click:
 • .instagram [url] - Download Instagram media
 • .facebook [url] - Download Facebook videos
 • .ytmp4 [url] - Download YouTube videos
-```
-</details>
-
-<details>
-<summary><b>👥 Group Management</b></summary>
-
-```
-• .ban @user - Ban user from group
-• .promote @user - Make user admin
-• .mute @user - Mute user messages
-• .antilink on/off - Toggle link protection
-• .welcome on/off - Toggle welcome messages
-• .tag [text] - Tag all members
 ```
 </details>
 
@@ -185,10 +157,6 @@ Deploy EMMYHENZ-V1 to your favorite platform with one click:
 ### ⚡ **Powered by EMMYHENZ**
 
 **Made with ❤️**
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/emmyhenz)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029VangYOt96H4JhFarL10C)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/cyber_xph)
 
 **⭐ Star this repo if you found it helpful!**
 
