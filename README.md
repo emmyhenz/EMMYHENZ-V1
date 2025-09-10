@@ -23,18 +23,6 @@
 
 ---
 
-## 📋 Table of Contents
-
-- [✨ Features](#-features)
-- [🚀 Quick Deploy](#-quick-deploy)
-- [📱 Channels & Support](#-channels--support)
-- [🎯 Top Commands](#-top-commands)
-- [📖 Installation Guide](#-installation-guide)
-- [🔧 Panel/VPS Setup](#-panelvps-setup)
-- [🤝 Contributing](#-contributing)
-
----
-
 ## ✨ Features
 
 ### 🔥 **Core Features**
