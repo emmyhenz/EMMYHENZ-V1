@@ -193,14 +193,6 @@ Deploy EMMYHENZ-V1 to your favorite platform with one click:
 • .emojimix [emoji1+emoji2] - Mix emojis
 • .blur - Blur image effect
 ```
-</details>
-
-**📋 Full Command List:** Send `.menu` to the bot for complete commands
-
----
-
-## 📖 Installation Guide
-
 
 ### ⚡ **Powered by EMMYHENZ**
 
